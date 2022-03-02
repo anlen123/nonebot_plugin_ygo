@@ -1,10 +1,10 @@
 <!--
  * @Author         : anlen123
- * @Date           : 2022-02-15 00:00:00
+ * @Date           : 2022-03-02 00:00:00
  * @LastEditors    : anlen123
- * @LastEditTime   : 2022-02-15 00:00:00
+ * @LastEditTime   : 2022-02-02 00:00:00
  * @Description    : None
- * @GitHub         : https://github.com/anlen123/nonebot_plugin_pixiv
+ * @GitHub         : https://github.com/anlen123/nonebot_plugin_ygo
 -->
 
 <p align="center">
