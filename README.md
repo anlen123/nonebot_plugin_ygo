@@ -24,8 +24,8 @@ _✨ NoneBot nonebot的游戏王卡查插件 ✨_
   <a href="https://raw.githubusercontent.com/cscs181/QQ-Github-Bot/master/LICENSE">
     <img src="https://img.shields.io/github/license/cscs181/QQ-Github-Bot.svg" alt="license">
   </a>
-  <a href="https://pypi.python.org/pypi/nonebot-plugin-status">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-status.svg" alt="pypi">
+  <a href="https://pypi.python.org/pypi/nonebot-plugin-ygo">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-ygo.svg" alt="pypi">
   </a>
   <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="python">
 </p>
@@ -35,6 +35,19 @@ ygo key
 
 例如：
 ygo 闪刀
+
+群聊
+
+<img width="615" alt="image" src="https://user-images.githubusercontent.com/49887895/156330040-29e48697-b48f-4aac-aabb-d8714639f84f.png">
+
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/49887895/156330065-272a2df2-d8e4-4b6d-9cde-12e87c29d3e7.png">
+
+私聊
+
+<img width="1553" alt="image" src="https://user-images.githubusercontent.com/49887895/156330126-3e98562e-db0a-4e6d-a492-020e3e791d70.png">
+
 
 ygo 龙女仆
 
