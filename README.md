@@ -1,0 +1,2 @@
+# nonebot2_plugin_ygo
+nonebot2的游戏王卡查插件
