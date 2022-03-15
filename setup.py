@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='nonebot_plugin_ygo',
-    version="1.0.0",
+    version="1.0.1",
     description=(
         'nonebot的游戏王卡查插件'
     ),
