@@ -31,10 +31,9 @@ _✨ NoneBot nonebot的游戏王卡查插件 ✨_
 </p>
 
 ## 使用方式
-ygo key
+ygo key page
 
-例如：
-ygo 闪刀
+例如：**ygo 闪刀** 或 **ygo 闪刀 2**
 
 群聊
 
@@ -60,7 +59,12 @@ ygo 拿妈
 
 表示最大查询卡数
 
-YGO_MAX=10
+YGO_MAX=5
+
+设置查询命令
+
+YGO_CMD="ygo"
+
 
 
 ## 安装
